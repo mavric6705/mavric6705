@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mavric6705
+- 👋 Hi, I’m Shrinidhi S Uppoor
 - 👀 I’m interested in Testing, UI/UX, Automation, and DevOps 
 - 🌱 I’m currently learning DevOps & Automation.
 - 📫 How to reach me - shrinidhisuppoor693@gmail.com
